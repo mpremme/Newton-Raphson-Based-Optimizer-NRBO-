@@ -3,3 +3,5 @@ The Newton-Raphson-Based Optimizer (NRBO), a new metaheuristic algorithm, is sug
 
 Citation Format:
 R. Sowmya, M. Premkumar, and P. Jangir, “Newton-Raphson-Based Optimizer: A New Population-Based Metaheuristic Algorithm for Continuous Optimization Problems,” Engineering Applications of Artificial Intelligence, Vol. 128, pp. 107532, February 2024, doi: 10.1016/j.engappai.2023.107532.
+
+Presenting "Newton-Raphson-Based Optimizer (NRBO)," a fundamental algorithm designed to introduce users to global optimization. This code serves as a foundational platform, offering core capabilities and a user-friendly structure for optimization algorithm enthusiasts. While it showcases essential techniques and strategies, it's a basic version and may not guarantee superior results across all applications. Ideal for users seeking a basis for further development, customization, and experimentation. This code invites collaborative growth and innovation.
